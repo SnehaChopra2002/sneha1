@@ -1,3 +1,4 @@
 # sneha1
 My repository<br>
-Author - Sneha Chopra
+Author - Sneha Chopra<br>
+This is readme.
